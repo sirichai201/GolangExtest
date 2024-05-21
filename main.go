@@ -1,10 +1,10 @@
 package main
 
 import (
-	"fmt"
-	"math"
-	"strconv"
-	"strings"
+	"fmt"     //แสดงผลลัพธ์ (printf) และรับข้อมูลจากผู้ใช้ (scanf)
+	"math"    //ใช้สำหรับการทำงานทางคณิตศาสตร์
+	"strconv" //การแปลง string เป็น int
+	"strings" //การตัดแบ่งข้อความ (split),
 )
 
 func main() {
